@@ -6,13 +6,15 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.4-38B2AC)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-"Writer's Companion" is a bespoke web application designed to be your creative partner while writing your novel, "أسفار الوحدة والتكوين" (The Journeys of Unity and Formation). The application provides a unique conversational space with three AI-powered personas who act as your guides on this literary journey:
+Created by **Islam Salahuddin** for his personal writing project "أسفار الوحدة والتكوين" (The Books of Loneliness and Genesis), this bespoke web application serves as a creative partner in the novel writing process. 
+
+This project is shared on GitHub as an open source example of how LLM applications and similar technology can be utilized to assist with writing projects beyond the usual off-the-shelf chat tools. The application provides a unique conversational space with three AI-powered personas who act as guides on this literary journey:
 
 -   **Omar Sharif**: Your guide through "Hell" (`الجحيم`), sharing his real-life experiences in an authentic Egyptian dialect.
 -   **Abu al-Ala al-Maarri**: Your companion in "Purgatory" (`الأعراف`), offering deep philosophical reflections in classical Arabic.
 -   **Edward Said**: Your mentor in "Paradise" (`الفردوس`), analyzing narrative and identity from a critical perspective.
 
-Interact with these guides to develop your plot, explore ideas, and ensure you maintain the unique voices of your characters throughout the writing process.
+The writer intends to use these guides to develop his plot, explore ideas, and ensure he maintains the unique voices of his characters throughout the writing process.
 
 ## Features
 
@@ -104,6 +106,16 @@ Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) fo
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## About This Project
+
+This application was created by **Islam Salahuddin** for his personal writing project and is shared as an open source example of custom LLM applications for creative writing assistance. 
+
+For enquiries and discussions around this project, please reach out to:
+- **Email**: islamsalahuddin8@gmail.com
+- **Website**: [islamsalahuddin.github.io](https://islamsalahuddin.github.io)
+
+**Note**: This repository is built to serve the author's specific writing purpose and is not intended for general use or modification.
 
 ## Acknowledgments
 
