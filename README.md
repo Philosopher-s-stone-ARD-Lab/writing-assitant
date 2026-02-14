@@ -6,13 +6,16 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.4-38B2AC)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Created by **Islam Salahuddin** for his personal writing project "أسفار الوحدة والتكوين" (The Books of Loneliness and Genesis), this bespoke web application serves as a creative partner in the novel writing process. 
+Created by **Islam Salahuddin** in Arabic for his personal writing project "أسفار الوحدة والتكوين" (The Books of Loneliness and Genesis), this bespoke web application serves as a creative partner in the novel writing process. 
 
 This project is shared on GitHub as an open source example of how LLM applications and similar technology can be utilized to assist with writing projects beyond the usual off-the-shelf chat tools. The application provides a unique conversational space with three AI-powered personas who act as guides on this literary journey:
 
 -   **Omar Sharif**: Your guide through "Hell" (`الجحيم`), sharing his real-life experiences in an authentic Egyptian dialect.
+![Local Image](screenshots/omar-example.png)
 -   **Abu al-Ala al-Maarri**: Your companion in "Purgatory" (`الأعراف`), offering deep philosophical reflections in classical Arabic.
+![Local Image](screenshots/maari-example.png)
 -   **Edward Said**: Your mentor in "Paradise" (`الفردوس`), analyzing narrative and identity from a critical perspective.
+![Local Image](screenshots/edward-example.png)
 
 The writer intends to use these guides to develop his plot, explore ideas, and ensure he maintains the unique voices of his characters throughout the writing process.
 
