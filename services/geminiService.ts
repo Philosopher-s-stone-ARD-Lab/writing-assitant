@@ -13,7 +13,7 @@ try {
     console.error("Failed to initialize GoogleGenAI:", error);
 }
 
-const modelName = 'gemini-2.5-flash';
+const modelName = 'gemini-3-flash-preview';
 
 export const getChatResponse = async (persona: Persona, history: ChatMessage[], allHistories?: AllChatHistories): Promise<string> => {
     if (!ai) {
@@ -63,7 +63,7 @@ export const getChatResponse = async (persona: Persona, history: ChatMessage[], 
         if (!lastMessage || lastMessage.role !== 'user') {
             throw new Error("The last message must be from the user.");
         }
-        
+
         const result = await chat.sendMessage({ message: lastMessage.content });
         return result.text;
     } catch (error) {
